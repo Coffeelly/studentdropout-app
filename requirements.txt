@@ -274,7 +274,6 @@ referencing==0.36.2
 regex==2024.11.6
 requests==2.32.3
 rich==13.9.4
-rpy2==3.5.17
 rsa==4.9.1
 safetensors==0.5.3
 scipy==1.14.1
